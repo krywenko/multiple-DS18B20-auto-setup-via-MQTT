@@ -1,0 +1,1 @@
+# multiple-DS18B20-auto-setup-via-MQTT
